@@ -1,0 +1,2 @@
+monitor,server,Instance,torp,errorlog,ping
+Y,WINSQL,MSSQLSERVER,Test,E:\Data\MSSQL10_50.MSSQLSERVER\MSSQL\Log\ERRORLOG,Ping
